@@ -4,7 +4,7 @@ Welcome to the `ml-projects` repository! This repository hosts a collection of m
 
 ## Projects
 
-### [[Project 1: Breast Cancer Classification]](https://github.com/kur0ii/breast-cancer-classification)
+### [Project 1: Breast Cancer Classification](https://github.com/kur0ii/breast-cancer-classification)
 - **Description**: A machine learning project to classify breast cancer as malignant or benign using various algorithms.
 - **Techniques Used**: Logistic Regression, Decision Trees, Random Forests, Support Vector Machines
 - **Dataset**: Breast Cancer Wisconsin dataset
